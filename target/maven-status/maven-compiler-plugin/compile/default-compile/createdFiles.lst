@@ -1,0 +1,8 @@
+org\xylia\microservices\odata\producer\entity\providers\LeaveEventEntityProvider.class
+org\xylia\microservices\odata\producer\config\Application.class
+org\xylia\microservices\odata\producer\entity\providers\ClaimNoteEntityProvider.class
+org\xylia\microservices\odata\producer\config\PersistenceConfig.class
+org\xylia\microservices\odata\producer\entity\providers\ClaimEntityProvider.class
+org\xylia\microservices\odata\producer\entities\ClaimNote.class
+org\xylia\microservices\odata\producer\entities\LeaveEvent.class
+org\xylia\microservices\odata\producer\entities\Claim.class
